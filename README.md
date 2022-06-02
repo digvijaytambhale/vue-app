@@ -1,5 +1,11 @@
 # vue-app POC
 
+```
+git remote add origin https://github.com/digvijaytambhale/vue-app.git
+git branch -M main
+git push -u origin main
+```
+
 ## Project setup
 ```
 npm install
